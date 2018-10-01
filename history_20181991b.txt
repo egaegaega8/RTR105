@@ -1,0 +1,99 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  whoami
+    4  who
+    5  ls
+    6  pwd
+    7  nano mans_skripts.sh
+    8  ls
+    9  cat mans_skripts.sh 
+   10  ls
+   11  ./mans_skripts.sh
+   12  ~/mans_skripts.sh
+   13  ~/mans_skripts.shs
+   14  /home/user/mans_skripts.sh
+   15  clr
+   16  ls -l
+   17  chmod 764 mans_skripts.sh
+   18  ls
+   19  mans_skripts.sh
+   20  echo #PATH
+   21  echo $PATH
+   22  ls -l /bin | grep ls
+   23  PATH=$PATH:~
+   24  PATH=$PATH
+   25  echo $PATH
+   26  mans_skripts.sh 
+   27  ls -l
+   28  nano mans_skripts.sh 
+   29  cd
+   30  ls -l
+   31  pwd
+   32  ls -l
+   33  -r Mape/
+   34  ls -l
+   35  rm -r Mape/
+   36  ls -l
+   37  git clone https://github.com/egaegaega8/RTR105
+   38  ls -l
+   39  mv mans_skripts.sh RTR105/
+   40  cd /RTR105$
+   41  mv mans_skripts.sh RTR105/
+   42  cd RTR105/
+   43  ls -l
+   44  nano REAMME.md
+   45  nano README.md
+   46  history
+   47  nano README.md
+   48  fg
+   49  -ls l
+   50  ls -l
+   51  history > history_20181991a.txt
+   52  ls -l
+   53  nano git-upload
+   54  ls -l
+   55  chmod 764 git-upload 
+   56  ls -l
+   57  ./git-upload
+   58  ./git-upload 20181001_11_45
+   59  nano git-upload
+   60  ./git-upload 
+   61  nano git-upload 
+   62  ./git-upload 
+   63  ls -l
+   64  ./git-upload 
+   65  nano git-upload 
+   66  ./git-upload 
+   67  nano git-upload 
+   68  ./git-upload 
+   69  nano git-upload 
+   70  firefox
+   71  ls -l
+   72  rm -rf RTR105/
+   73  ls -l
+   74  pwd
+   75  ls -l
+   76  git clone https://github.com/egaegaega8/RTR105
+   77  ls -l
+   78  pwd
+   79  cd RTR105
+   80  pwd
+   81  python 
+   82  ipython
+   83  history
+   84  idle &
+   85  ls -l
+   86  whereis python
+   87  ls - l
+   88  nano test1.py
+   89  ls -l
+   90  python test1.py 
+   91  nano test1.py
+   92  python test1.py 
+   93  ./test_1.py
+   94  ./test1.py
+   95  chmod 764 test1.py
+   96  ./test1.py
+   97  idle test1.py &
+   98  ls -l
+   99  history > history_20181991b.txt 
